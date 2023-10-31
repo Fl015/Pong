@@ -14,6 +14,11 @@ public class menu : MonoBehaviour
     {
         SceneManager.LoadScene(2);
     }
+
+    public void OnAiMatchButton ()
+    {
+        SceneManager.LoadScene(3);
+    }
     
     public void OnQuitButton ()
     {

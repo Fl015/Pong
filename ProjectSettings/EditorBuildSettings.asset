@@ -9,12 +9,12 @@ EditorBuildSettings:
     path: Assets/Scenes/start screen.unity
     guid: 0511ff5c5f6451a429e472e239dd197b
   - enabled: 1
-    path: Assets/Scenes/pedals.unity
-    guid: 8cb2bca83f988aa4089ee73b01de55f7
-  - enabled: 1
-    path: Assets/Scenes/Pong game V1.unity
+    path: Assets/Scenes/SinglePong.unity
     guid: 51e9b0c30986f3b4f983be09cf74372e
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
-    guid: 2cda990e2423bbf4892e6590ba056729
+    path: Assets/Scenes/DuoPong.unity
+    guid: 8cb2bca83f988aa4089ee73b01de55f7
+  - enabled: 1
+    path: Assets/Scenes/watch ai.unity
+    guid: 972a74ae751dcea4fbb44502ddb5d0c7
   m_configObjects: {}
